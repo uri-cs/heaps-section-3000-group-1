@@ -7,7 +7,7 @@
  */
 class MinHeap {
  private:
-  int* array;
+  int* arr;
   unsigned int capacity;
   int size;
 
